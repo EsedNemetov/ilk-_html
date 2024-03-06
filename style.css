@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.qarabag{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.bayern{
+    display: flex;
+    justify-content: space-around;
+}
+.psg{
+    display: flex;
+    justify-content: space-around;
+}
